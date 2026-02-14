@@ -1,0 +1,7 @@
+{
+  "name": "DrugWatch Pharmacovigilance",
+  "description": "A streamlined platform for reporting and analyzing adverse drug reactions with automated AI data extraction and follow-up generation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
